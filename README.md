@@ -1,7 +1,7 @@
 # pv-plant-specifications
 _Variable names and definitions that can be used for describing and modeling solar PV plants in [pvlib](https://github.com/pvlib/pvlib-python) or other tools._
 
-**See [pv-plant-specification-rev2.0.csv](pv-plant-specification-rev2.0.csv) for the list of variable names, definitions, and other information.**
+**See [pv-plant-specification-rev3.0.csv](pv-plant-specification-rev3.0.csv) for the list of variable names, definitions, and other information.**
 
 ------
 
