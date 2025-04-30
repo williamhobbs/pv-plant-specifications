@@ -1,13 +1,18 @@
 # pv-plant-specifications
-_Variable names and definitions that can be used for describing and modeling solar PV plants in [pvlib](https://github.com/pvlib/pvlib-python) or other tools._
+_Variable names and definitions that can be used for describing and modeling solar PV plants in [pvlib](https://github.com/pvlib/pvlib-python) or other tools._ 
 
 **See [pv-plant-specification-rev5.csv](pv-plant-specification-rev5.csv) for the list of variable names, definitions, and other information.**
+
+Also see [Plant_Specification_List_Form_rev4.xlsx](Plant_Specification_List_Form_rev4.xlsx) for an Excel spreadsheet form with data validation enabled to enforce some input type requirements (e.g., selecting from a drop-down list of strings, requiring angles to be numbers in a range, etc.).
+
+[pv-system-model](https://github.com/williamhobbs/pv-system-model) is an example pvlib implementation that follows these variable names.
 
 ------
 
 Comparisons have been made with DuraMAT [pv-terms](https://duramat.github.io/pv-terms/), produced by Todd Karin and the Hacking Materials Research Group. 
 
 Other references/projects that might be of interest:
+ - https://github.com/pvlib/pvcollada
  - https://github.com/BreakingBytes/openPVspec/issues/1
    - started from https://github.com/pvlib/pvlib-python/issues/96
  - https://duramat.github.io/pv-terms/
